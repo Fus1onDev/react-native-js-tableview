@@ -7,8 +7,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "react-native start",
-    "prepare": "npm run build"
+    "start": "react-native start"
   },
   "peerDependencies": {
     "react": "*",
